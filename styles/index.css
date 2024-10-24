@@ -1,0 +1,17 @@
+*{
+  background-color: palegoldenrod;
+}
+
+h1 {
+  font-family: cursive, arial;
+  text-decoration:overline underline;
+  color: orange;
+  text-align:center;
+}
+
+a {
+  color: purple;
+  font-size: 32px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style:italic;
+}
