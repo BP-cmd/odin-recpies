@@ -1,0 +1,24 @@
+*{
+  text-align: center;
+  background-color: palegoldenrod;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: rgb(200, 83, 91);
+}
+
+h1 {
+  text-align: center;
+  color: rgb(255, 121, 59) ;
+  font-family:cursive;
+  text-decoration:underline;
+}
+
+h3 {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  color: rgb(195, 0, 255);
+  text-decoration-line: overline;
+}
+
+em {
+  font-family: monospace;
+}
